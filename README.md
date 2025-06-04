@@ -25,3 +25,4 @@
 - 📧 Email: korawit.boonchat@efrei.net
 - 💼 LinkedIn: www.linkedin.com/in/boonchat-korawit
 
+![snake gif](https://github.com/Ch0cap1csou/Ch0cap1csou/blob/output/github-contribution-grid-snake.svg)
