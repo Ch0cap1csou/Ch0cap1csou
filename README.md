@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ch0cap1csou
-- 👀 I’m interested in me
-- 🌱 I’m currently learning czlcklz,mkdscnqlsc
+- 👀 I’m interested in informatic
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on code,ld,
-- 📫 How to reach me dskcnjsbh
+- 📫 How to reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: rervehejzdnkcnsjkc
+- ⚡ Fun fact: 
 
 <!---
 Ch0cap1csou/Ch0cap1csou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
