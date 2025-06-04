@@ -14,6 +14,10 @@
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-007ACC?style=flat-square&logo=hackthebox&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 📂 Projects
+- 🔐 [CrackMe Hashcat](https://github.com/Ch0cap1csou/hashcat-crackme) — Small hash cracking project using Hashcat
+- 🐧 [Linux Hardening Script](https://github.com/Ch0cap1csou/linux-hardening) — Bash script to secure a Linux server
+  
 ## 📈 GitHub Stats
 ![Ch0cap1csou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch0cap1csou&show_icons=true&theme=tokyonight)
 
